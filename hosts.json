@@ -1,0 +1,18 @@
+{
+    "hosts": {
+        "sg1d_ddnmedf03a": {
+            "ansible_host": "10.169.179.100",
+            "beltron_services": [
+                "beltron_cha",
+                "beltron_jnx"
+            ]
+        },
+        "us07135q-mrtd01": {
+            "ansible_host": "10.131.32.168",
+            "beltron_services": [
+                "beltron_bats"
+            ]
+        }
+    }
+}
+
