@@ -1,0 +1,21 @@
+{
+  "uri": "https://bams-aws.refinitiv.com/artifactory/api/storage/default.gitlfs.global/com/refinitiv/rundeck",
+  "created": "2025-02-06T13:42:47.768Z",
+  "files": [
+    {
+      "uri": "/2024-12-03_1611_EDGEFFT0861_20241203.zip",
+      "size": 545773,
+      "lastModified": "2024-12-03T16:11:22.032Z",
+      "folder": false,
+      "sha1": "73487bae39bcc7f99b85678115f84d90288ca6e2",
+      "sha2": "a8f1351c6627002ab26c53a2d27cd8d54bdf5bd013082cd7960dc7dcfc6d9e46"
+    },
+    {
+      "uri": "/SMF_Log_Collection_Archives_2025-02-06_0247_EDGECHI0446_20250205_to_20250206.zip",
+      "size": 14468,
+      "lastModified": "2025-02-06T02:47:20.372Z",
+      "folder": false,
+      "sha1": "8173cd875a5cc86fee3f0f81cf034ce9df8c7b4b",
+      "sha2": "669fb0987b98bd942dd2f9db97a28e7f19e95a073a751290e116109b758d753f"
+    }
+}
